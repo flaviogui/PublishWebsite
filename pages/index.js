@@ -6,6 +6,7 @@ export default function Home (){
         <h3>Receitas NEXT</h3>
         <a href='https://github.com/flaviogui/PWeb/tree/main/Receitas%202%C2%AA%20Unidade/pages/receita1' target='blank'>Receita 1</a><br></br>
         <a href='https://github.com/flaviogui/PWeb/tree/main/Receitas%202%C2%AA%20Unidade/pages/receita2' target='blank'>Receita 2</a><br></br>
+        <a href='https://github.com/flaviogui/PWeb/tree/main/Receitas%202%C2%AA%20Unidade/pages/receita3' target='blank'>Receita 2</a><br></br>
     </div>
     )
 }
