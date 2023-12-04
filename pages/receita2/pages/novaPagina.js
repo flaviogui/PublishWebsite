@@ -1,4 +1,4 @@
-import { ImagemSobre, Prea, DescricaoSobre } from "../receita2/components/sobre";
+import { ImagemSobre, Prea, DescricaoSobre } from "../components/sobre";
 import styles from './styles.module.css';
 
 
