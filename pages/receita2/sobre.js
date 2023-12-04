@@ -18,3 +18,5 @@ export function DescricaoSobre() {
     )
 }
 
+export { ImagemSobre, Prea, DescricaoSobre };
+

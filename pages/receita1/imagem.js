@@ -6,3 +6,4 @@ export function Imagem() {
     )
 }
 
+export default Imagem;

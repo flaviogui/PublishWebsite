@@ -6,3 +6,4 @@ export function Descricao() {
     )
 }
 
+export default Descricao;
