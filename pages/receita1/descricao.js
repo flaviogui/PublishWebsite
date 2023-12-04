@@ -6,4 +6,3 @@ export function Descricao() {
     )
 }
 
-export default Descrição;
