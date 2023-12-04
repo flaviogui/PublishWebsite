@@ -7,7 +7,7 @@ export default function Movies({ data: initialData }) {
 
   const handleSearch = async () => {
     try {
-      const apiUrl = `http://www.omdbapi.com/?apikey=16a58b53`;
+      const apiUrl = `https://www.omdbapi.com/?apikey=16a58b53`;
 
       const searchParams = new URLSearchParams();
       if (searchTerm) searchParams.set('s', searchTerm);
