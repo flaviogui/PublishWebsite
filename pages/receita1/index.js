@@ -1,5 +1,5 @@
-import { Descricao } from "./descricao";
-import { Imagem } from "./imagem";
+import { Descricao } from "../receita1/components/descricao";
+import { Imagem } from "../receita1/components/imagem";
 import styles from './styles.module.css';
 
 export default function Home() {
