@@ -1,5 +1,7 @@
-import { ImagemSobre, Prea, DescricaoSobre } from "../components/sobre";
-import styles from './styles.module.css';
+import DescricaoSobre from "../components/sobre";
+import Prea from "../components/prea"
+import ImagemSobre from "../components/imagem";
+import styles from '../styles/styles.module.css';
 
 
 export default function Principal(){
