@@ -1,15 +1,15 @@
-import DescricaoSobre from "../components/sobre";
-import Prea from "../components/prea"
-import ImagemSobre from "../components/imagem";
-import styles from '../styles/styles.module.css';
+import Descricao from "./sobre";
+import Imagem from "./imagem";
+import Prea from "./prea";
+import styles from './styles.module.css';
 
 
 export default function Principal(){
     return (
        <div className={styles.container}>
           <h1>A super Maquina</h1>
-          <ImagemSobre/>
-          <DescricaoSobre/>
+          <Imagem/>
+          <Descricao/>
           <Culpado nome = "Maria Prea"/>
           <Prea/>
           <MariaPrea nome = "Prea" />

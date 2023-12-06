@@ -1,6 +1,6 @@
-import { Descricao } from "../components/descricao";
-import { Imagem } from "../components/imagem";
-import styles from '../styles/styles.module.css';
+import { Descricao } from "./descricao";
+import { Imagem } from "./imagem";
+import styles from './styles.module.css';
 
 export default function Home() {
     return (
