@@ -1,14 +1,12 @@
 {
   "dependencies": {
-    "next": "^14.0.2"
+    "next": "^14.0.2",
+    "react-router-dom": "^6.20.1",
+    "swr": "^2.2.4"
   },
-
   "scripts": {
-
     "dev": "next dev",
     "build": "next build",
-
     "test": "echo \"Error: no test specified\" && exit 1"
-
-  }  
+  }
 }
